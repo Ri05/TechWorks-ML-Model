@@ -3,7 +3,7 @@ The goal is to create a machine learning model that predicts the salaries of new
 
 ### Model Comparison and Performance
 
-In this project, we have implemented and compared several machine learning models to predict salaries based on various factors. The models were run and evaluated in the Jupyter Notebook available at [this link](https://github.com/Ri05/TechWorks-ML-Model/blob/main/Project_1_ML.ipynb).
+In this project, we have implemented and compared several machine learning models to predict salaries based on various factors. The models were run and evaluated in the Jupyter Notebook available at [Project_1_ML.ipynb](https://github.com/Ri05/TechWorks-ML-Model/blob/main/Project_1_ML.ipynb).
 
 #### Models Implemented
 
@@ -26,4 +26,4 @@ After running these models, we observed the following key findings:
 
 The results from our analysis suggest that **Bagging** is the most effective approach for predicting salaries in this dataset. By leveraging the strengths of multiple models through ensemble learning, we were able to achieve a higher R² value compared to other individual models. This highlights the importance of using ensemble methods when dealing with complex datasets where single models may not capture all nuances.
 
-For detailed implementation and results, please refer to the Jupyter Notebook available at [this link](https://github.com/Ri05/TechWorks-ML-Model/blob/main/Project_1_ML.ipynb).
+For detailed implementation and results, please refer to the Jupyter Notebook available at [Project_1_ML.ipynb](https://github.com/Ri05/TechWorks-ML-Model/blob/main/Project_1_ML.ipynb).
